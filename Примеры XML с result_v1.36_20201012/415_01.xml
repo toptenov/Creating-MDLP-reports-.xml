@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documents session_ui="4Aa246a6-D7e2-2465-a056-0234554369a3" version="1.36" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<move_order action_id="415">
+		<subject_id>19527400000175</subject_id>
+		<receiver_id>19200000000003</receiver_id>
+		<operation_date>2017-10-30T15:10:00+05:00</operation_date>
+		<doc_num>000000010</doc_num>
+		<doc_date>30.10.2017</doc_date>
+		<turnover_type>1</turnover_type>
+		<source>1</source>
+		<contract_type>1</contract_type>
+		<order_details>
+			<union>
+				<sscc_detail>
+					<sscc>147600887000000010</sscc>
+					<detail>
+						<gtin>11170012610151</gtin>
+						<series_number>100000001</series_number>
+						<cost>300</cost>
+						<vat_value>54</vat_value>
+					</detail>
+					<detail>
+						<gtin>11170012610153</gtin>
+						<series_number>100000333</series_number>
+						<cost>200</cost>
+						<vat_value>54</vat_value>
+					</detail>
+				</sscc_detail>
+				<cost>300</cost>
+				<vat_value>54</vat_value>
+			</union>
+			<union>
+				<sscc_detail>
+					<sscc>147600887000000015</sscc>
+				</sscc_detail>
+				<cost>300</cost>
+				<vat_value>54</vat_value>
+			</union>
+		</order_details>
+	</move_order>
+</documents>
